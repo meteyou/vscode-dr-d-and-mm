@@ -162,13 +162,14 @@
                             "orange",
                             "akita"
                         ],
-                        "default": "brown",
+                        "default": "white",
                         "description": "Pet color",
                         "scope": "window"
                     },
                     "vscode-pets.petType": {
                         "type": "string",
                         "enum": [
+                            "drdejvilandmeteme",
                             "cat",
                             "chicken",
                             "crab",
@@ -185,7 +186,7 @@
                             "turtle",
                             "zappy"
                         ],
-                        "default": "cat",
+                        "default": "drdejvilandmeteme",
                         "description": "Pet type",
                         "scope": "window"
                     },
@@ -197,7 +198,7 @@
                             "medium",
                             "large"
                         ],
-                        "default": "nano",
+                        "default": "small",
                         "description": "Pet size"
                     },
                     "vscode-pets.position": {
